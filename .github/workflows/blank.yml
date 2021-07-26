@@ -34,8 +34,8 @@ jobs:
           $md.Html | Out-File -Encoding utf8 .\index.html
 
       - name: List files & output the content
-        shell:
         run: |
+          which $SHELL
           ls -al
           echo .\index.html
       # # Runs a single command using the runners shell

@@ -1,6 +1,6 @@
 # Abayomi Pelewura
 Email: [txofik@gmail.com](mailto:txofik@gmail.com)  
-Phone Number: [+1-240-264-0050](tel::+12402640050)  
+Phone Number: [+1-240-264-0050](tel:+12402640050)  
 LinkedIn: [https://www.linkedin.com/in/abayomipelewura/](https://www.linkedin.com/in/abayomipelewura/)
 
 ## Summary
@@ -49,7 +49,7 @@ AWS Certified Cloud Engineer with experience in cloud computing and systems admi
 - AWS Certified SysOps Administrator - Associate
 - AWS Certified Security - Specialty
 - HashiCorp Certified: Terraform Associate
-## Education
+## Education {.heading}
 - Master of Science, Cybersecurity  
 May 2019  
 Hood College, Frederick, MD

@@ -58,4 +58,4 @@ October 2013
 Covenant University, Ogun
 
 
->{.className}{#id}This is the blockquote
+>{.test-class}{#test-id}This is the blockquote

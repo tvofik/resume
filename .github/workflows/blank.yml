@@ -22,7 +22,7 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
 
-      - name: Perform a Pester test from the command-line
+      - name: Check powershell versions
         shell: pwsh
         run: |
           (Get-Host).Version

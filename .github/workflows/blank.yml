@@ -26,7 +26,12 @@ jobs:
         shell: pwsh
         run: |
           (Get-Host).Version
-          ls -al
+
+      - name: Convert Markdown to HTML
+        shell: pwsh
+        run: |
+          $md = ConvertFrom-Markdown -Path .\resume.md
+          $md.Html | Out-File -Encoding utf8 .\index.html
       # # Runs a single command using the runners shell
       # - name: Run a one-line script
       #   run: echo Hello, world!

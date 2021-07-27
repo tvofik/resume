@@ -49,7 +49,7 @@ AWS Certified Cloud Engineer with experience in cloud computing and systems admi
 - AWS Certified SysOps Administrator - Associate
 - AWS Certified Security - Specialty
 - HashiCorp Certified: Terraform Associate
-## Education{.heading}{# }
+## Education{.heading}{##}
 - Master of Science, Cybersecurity  
 May 2019  
 Hood College, Frederick, MD
@@ -57,5 +57,5 @@ Hood College, Frederick, MD
 October 2013  
 Covenant University, Ogun
 
-
+<!-- Visits:<span> -->
 >{.test-class}{#test-id}This is the blockquote

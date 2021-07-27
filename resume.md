@@ -59,3 +59,10 @@ Covenant University, Ogun
 
 <!-- Visits:<span> -->
 >{.test-class}{#test-id}This is the blockquote
+
+
+Paragraph
+{: .class .class-1 .class-2}
+
+Paragraph
+{: #custom-id}

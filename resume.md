@@ -61,8 +61,6 @@ Covenant University, Ogun
 >{.test-class}{#test-id}This is the blockquote
 
 
-Paragraph
-{: .class .class-1 .class-2}
+Paragraph{: .class .class-1 .class-2}
 
-Paragraph
-{: #custom-id}
+Paragraph{: #custom-id}

@@ -65,7 +65,7 @@ jobs:
           output_files: '["index.html"]'
           # builtin_stylesheet: "style.css"
           packages: "pymdown-extensions"
-          extensions: '["pymdownx.extra","nl2br"]'
+          extensions: '["pymdownx.extra","nl2br","attr_list"]'
       - run: |
           cat index.html
       # - uses: actions/upload-artifact@v2

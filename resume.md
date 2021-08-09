@@ -5,7 +5,7 @@ LinkedIn: [https://www.linkedin.com/in/abayomipelewura/](https://www.linkedin.co
 
 Summary
 {: #an_id .a_class}
-AWS Certified Cloud Engineer with experience in cloud computing and systems administration (Linux and Windows). Has successfully built resilient, secure cloud solutions that address evolving customer needs. Is passionate about helping a diverse range of customers achieve business goals.
+AWS Certified Cloud Engineer with experience in cloud computing and systems administration (Linux and Windows). Has successfully built resilient, secure cloud solutions that address evolving customer needs. Is passionate about helping a diverse range of customers achieve business goals..
 ## Professional Experience
 ### Cloud Engineer, COTH Technologies Inc. - Frederick, MD  
 ### August 2019 - Present

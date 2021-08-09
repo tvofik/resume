@@ -67,7 +67,7 @@ jobs:
           packages: "pymdown-extensions"
           extensions: '["pymdownx.extra"]'
       - run: |
-          cat resume.html
+          cat index.html
       # - uses: actions/upload-artifact@v2
       #   with:
       #     name: my-artifact

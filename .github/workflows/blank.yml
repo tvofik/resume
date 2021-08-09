@@ -59,3 +59,8 @@ jobs:
           build_html: true
       - run: |
           cat resume.html
+
+      - uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: resume.pdf

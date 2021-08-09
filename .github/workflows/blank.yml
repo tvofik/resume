@@ -54,6 +54,6 @@ jobs:
       - name: convert to HTML
         uses: baileyjm02/markdown-to-pdf@v1
         with:
-        input_dir: ./
-        output_dir: ./
-        build_html: true
+          input_dir: ./
+          output_dir: ./
+          build_html: true

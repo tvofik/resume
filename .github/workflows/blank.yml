@@ -48,13 +48,12 @@ jobs:
       #     echo test, and deploy your project.
   Convert:
     runs-on: ubuntu-latest
-      steps:
-        - name: check out code
-          uses: actions/checkout@v2
-        - name: convert to HTML
-          uses: baileyjm02/markdown-to-pdf@v1
-          with:
-          input_dir: ./
-          output_dir: ./
-          build_html: true
-
+    steps:
+      - name: check out code
+        uses: actions/checkout@v2
+      - name: convert to HTML
+        uses: baileyjm02/markdown-to-pdf@v1
+        with:
+        input_dir: ./
+        output_dir: ./
+        build_html: true

@@ -61,9 +61,9 @@ jobs:
       #     cat resume.html
       - uses: ZacJW/markdown-html-action@1.1.0
         with:
-          input_files: "resume.md"
-          output_files: "index.html"
-          # builtin_stylesheet: "style.css"
+          input_files: '["resume.md"]'
+          output_files: '["index.html"]'
+          builtin_stylesheet: "style.css"
           packages: "pymdown-extensions"
           extensions: '["pymdownx.extra"]'
       # - uses: actions/upload-artifact@v2

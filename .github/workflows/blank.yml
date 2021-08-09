@@ -65,10 +65,14 @@ jobs:
           output_files: '["index.html"]'
           # builtin_stylesheet: "style.css"
           packages: "pymdown-extensions"
-          extensions: '["pymdownx.extra","nl2br","attr_list"]'
+          # extensions: '["pymdownx.extra","nl2br"]'
+          extensions: '["attr_list"]'
       - run: |
           cat index.html
       # - uses: actions/upload-artifact@v2
       #   with:
       #     name: my-artifact
       #     path: resume.pdf
+extension_config: '{}'
+md = markdown.Markdown(extensions=EXTENSIONS, extension_configs=EXTENSION_CONFIGS, output_format="html5")
+EXTENSION_CONFIGS : dict = json.loads(os.environ['INPUT_EXTENSION_CONFIGS'])

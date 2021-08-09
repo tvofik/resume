@@ -1,11 +1,10 @@
 # Abayomi Pelewura
 Email: [txofik@gmail.com](mailto:txofik@gmail.com)  
-Phone Number: [+1-240-264-0050](tel:+12402640050)  
+Phone Number: [+1-443-776-1804](tel:+1-443-776-1804)  
 LinkedIn: [https://www.linkedin.com/in/abayomipelewura/](https://www.linkedin.com/in/abayomipelewura/)
-<div class="special-class" markdown="1">
-{.heading}Summary
+
+Summary {#heading}
 AWS Certified Cloud Engineer with experience in cloud computing and systems administration (Linux and Windows). Has successfully built resilient, secure cloud solutions that address evolving customer needs. Is passionate about helping a diverse range of customers achieve business goals.
-</div>
 ## Professional Experience
 ### Cloud Engineer, COTH Technologies Inc. - Frederick, MD  
 ### August 2019 - Present
@@ -60,3 +59,10 @@ Covenant University, Ogun
 
 <!-- Visits:<span> -->
 >{.test-class}{#test-id}This is the blockquote
+
+
+  <!-- <div class="footer">
+    <p>Visits: <span id="count">900</span></p>
+  </div>
+
+  <script src="./scripts.js"></script> -->

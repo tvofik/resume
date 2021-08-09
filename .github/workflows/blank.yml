@@ -66,6 +66,8 @@ jobs:
           # builtin_stylesheet: "style.css"
           packages: "pymdown-extensions"
           extensions: '["pymdownx.extra"]'
+      - run: |
+          cat resume.html
       # - uses: actions/upload-artifact@v2
       #   with:
       #     name: my-artifact

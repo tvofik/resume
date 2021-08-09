@@ -57,4 +57,5 @@ jobs:
           input_dir: ./
           output_dir: ./
           build_html: true
-      - run: ls
+      - run: |
+        cat resume.html

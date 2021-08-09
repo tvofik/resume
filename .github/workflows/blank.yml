@@ -58,4 +58,4 @@ jobs:
           output_dir: ./
           build_html: true
       - run: |
-        cat resume.html
+          cat resume.html
